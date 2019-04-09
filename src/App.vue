@@ -1,19 +1,18 @@
 <template>
   <div>
  <div>
-   <Input/>
+   <Counter/>
  </div>
   </div>
 </template>
 
 <script>
-import Input from '@/components/Input'
+import Counter from '@/components/Counter'
 
 
 export default {
   components: {
-   Input,
-
+   Counter,
   }
 }
 </script>
