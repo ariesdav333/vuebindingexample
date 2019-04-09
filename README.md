@@ -1,4 +1,4 @@
-# PropsEventsExample
+VueHtmlBindExample
 
 ## Project setup
 ```
